@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">паук</string>
+    <string name="let_s_go_to_play">Вперед!</string>
+    <string name="statistic">тест</string>
+    <string name="restart">заново</string>
+    <string name="menu">завершить тест</string>
+    <string name="settings">настройки</string>
+    <string name="undo">назад</string>
+    <string name="forward">вперед</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="it_s_statistic">it\'s statistic</string>
+    <string name="choose_language">выберите язык</string>
+    <string name="select">выбрать..</string>
+    <string name="ru">русский</string>
+    <string name="english">english</string>
+    <string name="question1">1. Какого типа данных не существует в Kotlin?</string>
+    <string name="q1option1">Int</string>
+    <string name="q1option2">Object</string>
+    <string name="q1option3">List</string>
+    <string name="q1option4">Array</string>
+    <string name="q1option5" id="q1">Все перечисленные типы данных существуют</string>
+    <string name="question2">2. Какая функция служит для вывода данных?</string>
+    <string name="q2option1">log()</string>
+    <string name="q2option2">write()</string>
+    <string name="q2option3" id="q2">print()</string>
+    <string name="q2option4">system.out()</string>
+    <string name="question3">3. Верно ли записана переменная? <b>var number: Float = 45</b></string>
+    <string name="q3option1">Да, верно</string>
+    <string name="q3option2" id="q3">Не верно, так как после 45 необходимо добавить символ «f»</string>
+    <string name="question4">4. Что будет выведено в результате выполнения кода? var num = 9 num++ num += 6 —num println(num)</string>
+    <string name="q4option1">-16</string>
+    <string name="q4option2" id="q4">15</string>
+    <string name="q4option3">16</string>
+    <string name="q4option4">14</string>
+    <string name="q4option5">Будет выдана ошибка</string>
+    <string name="question5">5. Где неверно создана переменная?</string>
+    <string name="q5option1">var char = </string>
+    <string name="q5option2">var isGet = null</string>
+    <string name="q5option3">var number: Float = 45.001f</string>
+    <string name="q5option4">var num = 50;</string>
+    <string name="q5option5" id="q5">val str: String = null</string>
+    <string name="question6">6. В Kotlin каждый файл представляет из себя класс?</string>
+    <string name="q6option1">Да, верно</string>
+    <string name="q6option2" id="q6">Нет, не верно</string>
+    <string name="question7">7. В чем отличие между var и val?</string>
+    <string name="q7option1">Отличий между ними нет</string>
+    <string name="q7option2">val служит для создания массивов, var для создания переменных</string>
+    <string name="q7option3">val - позволяет установить и изменять значение, var - позволяет установить значение без изменения в дальнейшем</string>
+    <string name="q7option4" id="q7">var - позволяет установить и изменять значение, val - позволяет установить значение без изменения в дальнейшем</string>
+    <string name="question8">8. Какая функция считается основной в Kotlin?</string>
+    <string name="q8option1">Main()</string>
+    <string name="q8option2">start()</string>
+    <string name="q8option3" id="q8">main()</string>
+    <string name="q8option4">run()</string>
+    <string name="question9">9. На базе чего построен язык Kotlin?</string>
+    <string name="q9option1" id="q9">На базе Java Virtual Machine</string>
+    <string name="q9option2">На базе платформы Intellij IDEA</string>
+    <string name="q9option3">На базе Android Studio</string>
+    <string name="q9option4">На базе языка Python</string>
+    <string name="q9option5">На базе языка C++</string>
+    <string name="question10">10. Можно ли в файле Kotlin прописать код на Java?</string>
+    <string name="q10option1">Да, можно прописывать любой Java код</string>
+    <string name="q10option2">Можно, но лишь некоторые классы и функции</string>
+    <string name="q10option3" id="q10">Нельзя. Kotlin вмещает множество схожих функций и классов что и в Java, но писать код на Java в Kotlin файле нельзя</string>
+    <string name="end">Результат</string>
+    <string name="submit">Отправить</string>
+</resources>

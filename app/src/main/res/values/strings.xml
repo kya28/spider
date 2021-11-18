@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">spider</string>
+    <string name="let_s_go_to_play">Let\'s go to play!</string>
+    <string name="statistic">play</string>
+    <string name="restart">restart</string>
+    <string name="menu">menu</string>
+    <string name="settings">settings</string>
+    <string name="undo">undo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="it_s_statistic">it\'s statistic</string>
+    <string name="choose_language">choose language</string>
+    <string name="select">select</string>
+    <string name="ru">русский</string>
+    <string name="english">english</string>
+    <string name="forward">forward</string>
+    <string name="question1">1. What data type doesn\'t exist in Kotlin?</string>
+    <string name="q1option1">Int</string>
+    <string name="q1option2">Object</string>
+    <string name="q1option3">List</string>
+    <string name="q1option4">Array</string>
+    <string name="q1option5" id="q1">All of the listed data types exist</string>
+    <string name="question2">2. What function is used to output data?</string>
+    <string name="q2option1">log()</string>
+    <string name="q2option2">write()</string>
+    <string name="q2option3" id="q2">print()</string>
+    <string name="q2option4">system.out()</string>
+    <string name="question3">3. Is the variable written correctly? <b>var number: Float = 45</b></string>
+    <string name="q3option1">Yes, that\'s right </string>
+    <string name="q3option2" id="q3">Not correct, because after 45 you need to add a character «f»</string>
+    <string name="question4">4. What will be displayed as a result of code execution? var num = 9 num++ num += 6 —num println(num)</string>
+    <string name="q4option1">-16</string>
+    <string name="q4option2" id="q4">15</string>
+    <string name="q4option3">16</string>
+    <string name="q4option4">14</string>
+    <string name="q4option5">Error</string>
+    <string name="question5">5. Where variable was created incorrectly?</string>
+    <string name="q5option1">var char = </string>
+    <string name="q5option2">var isGet = null</string>
+    <string name="q5option3">var number: Float = 45.001f</string>
+    <string name="q5option4">var num = 50;</string>
+    <string name="q5option5" id="q5">val str: String = null</string>
+    <string name="question6">6. In Kotlin, each file is a class?</string>
+    <string name="q6option1">Yes, that\'s right</string>
+    <string name="q6option2" id="q6">Not correct</string>
+    <string name="question7">7. What is the difference between var and val?</string>
+    <string name="q7option1">There are no differences between them </string>
+    <string name = "q7option2"> val is for creating arrays, var for creating variables </string>
+    <string name = "q7option3"> val - allows you to set and change the value, var - allows you to set the value without changing later </string>
+    <string name = "q7option4" id="q7"> var - allows you to set and change the value, val - allows you to set the value without changing later </string>
+    <string name="question8">8. What is the main feature in Kotlin?</string>
+    <string name="q8option1">Main()</string>
+    <string name="q8option2">start()</string>
+    <string name="q8option3" id="q8">main()</string>
+    <string name="q8option4">run()</string>
+    <string name = "question9"> 9. What is the Kotlin language built on top of? </string>
+    <string name = "q9option1" id="q9"> Based on Java Virtual Machine </string>
+    <string name = "q9option2"> Based on Intellij IDEA Platform </string>
+    <string name = "q9option3"> Based on Android Studio </string>
+    <string name = "q9option4"> Python Based </string>
+    <string name = "q9option5"> C ++ Based </string>
+    <string name = "question10"> 10. Can I write Java code in a Kotlin file? </string>
+    <string name = "q10option1"> Yes, you can write any Java code </string>
+    <string name = "q10option2"> Yes, but only some classes and functions </string>
+    <string name = "q10option3" id="q10"> Not allowed. Kotlin contains many similar functions and classes as in Java, but you cannot write code in Java in a Kotlin file </string>
+    <string name="end">Result</string>
+    <string name="submit">SUBMIT</string>
+</resources>

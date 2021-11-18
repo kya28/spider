@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu"
+        android:title="@string/menu"
+        android:icon="@drawable/icon_menu"/>
+    <item
+        android:id="@+id/undo"
+        android:title="@string/undo"
+        android:icon="@drawable/icon_undo"/>
+    <item
+        android:id="@+id/statistic"
+        android:title="@string/statistic"
+        android:icon="@drawable/icon_statistic"/>
+    <item
+        android:id="@+id/forward"
+        android:title="@string/forward"
+        android:icon="@drawable/icon_forward"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        android:icon="@drawable/icon_settings"/>
+</menu>
